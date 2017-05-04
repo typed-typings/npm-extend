@@ -1,5 +1,7 @@
 # Typed Node Extend
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-extend.svg)](https://greenkeeper.io/)
+
 The type definition for [`extend`](https://github.com/justmoon/node-extend)
 
 ## LICENSE
